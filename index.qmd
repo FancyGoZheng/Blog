@@ -13,6 +13,7 @@ about:
     - icon: github
       text: Github
       href: https://github.com
+bibliography: references.bib
 ---
 
 This is fancy's blog for recording some texts
@@ -32,3 +33,15 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+```{r ,echo = FALSE}
+library(leaflet)
+leaflet() %>% addTiles() %>% setView(121.393459, 31.315814, zoom = 15)
+
+```
+
+[@leaflet]
+
+My Research Paper
+
+No.1 [@ZhengWang-164]

@@ -1,0 +1,15 @@
+﻿
+@article{
+ZhengWang-164,
+   Author = {Zheng, Hao and Wang, Junjie and Fan, Hairong and Wang, Shuocun and Ye, Ruiwei and Li, Linxue and Wang, Sheng and Li, An and Lu, Yiming},
+   Title = {Comparative Venom Multiomics Reveal the Molecular Mechanisms Driving Adaptation to Diverse Predator-Prey Ecosystems in Closely Related Sea Snakes.},
+   Journal = {Molecular biology and evolution},
+   Volume = {40},
+   Number = {6},
+   Pages = {msad125},
+   DOI = {10.1093/molbev/msad125},
+   Abstract = {Predator-prey arms races are ideal models for studying the natural selection and adaptive evolution that drive the formation of biological diversity. For venomous snakes, venom is a key bridge linking snakes with their prey, but whether and how venom evolves under the selection of diet remains unclear. Here, we focused on two closely related sea snakes, Hydrophis cyanocinctus and Hydrophis curtus, which show significant differences in prey preferences. Data-independent acquisition (DIA)-based proteomic analysis revealed different degrees of homogeneity in the venom composition of the two snakes, which was consistent with the differential phylogenetic diversity of their prey. By investigating the sequences and structures of three-finger toxins (3FTx), a predominant toxin family in elapid venom, we identified significant differences between the two sea snakes in the binding activity of 3FTx to receptors from different prey populations, which could explain the trophic specialization of H. cyanocinctus. Furthermore, we performed integrated multiomic profiling of the transcriptomes, microRNAs (miRNAs), long noncoding RNAs (lncRNAs), and proteomes of the venom glands; constructed venom-related mRNA-miRNA-lncRNA networks; and identified a series of noncoding RNAs involved in the regulation of toxin gene expression in the two species. These findings are highly informative for elucidating the molecular basis and regulatory mechanisms that account for discrepant venom evolution in response to divergent diets in closely related snakes, providing valuable evidence for the study of coselection and coevolution in predator-prey ecosystems.},
+   Keywords = {biodiversity;diet divergence;multiomics;ncRNAs;predator–prey},
+   Year = {2023} }
+
+

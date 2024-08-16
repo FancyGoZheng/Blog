@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Hello FancyGo"
 image: profile.jpg
 about:
   template: jolla
@@ -12,15 +12,42 @@ about:
       href: https://linkedin.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/FancyGoZheng
 bibliography: references.bib
 ---
 
-This is fancy's blog for recording some texts
+## This is fancy's blog for recording some texts
 
-Bioinformatics Data Analysis
+### Bioinformatics Data Analysis
 
 ![](photo/bioinfo.jpg){fig-align="center"}
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+```{r ,echo = FALSE}
+library(leaflet)
+leaflet() %>% addTiles() %>% setView(121.393459, 31.315814, zoom = 15)
+
+```
+
+## My Research Paper
+
+### [1]. ZhengHao et al. Molecular Biology and Evolution 40 (6): msad125.
+
+
+### [2]. Ye Ruiwei, ZhengHao et al. Biomedicine & Pharmacotherapy Aug:177:116999.
+
+
+[@ZhengHao]
+[@Ye_and_Zheng]
+
+
+
+\
+
+\
 
 ---
 listing:
@@ -34,14 +61,4 @@ page-layout: full
 title-block-banner: true
 ---
 
-```{r ,echo = FALSE}
-library(leaflet)
-leaflet() %>% addTiles() %>% setView(121.393459, 31.315814, zoom = 15)
 
-```
-
-[@leaflet]
-
-My Research Paper
-
-No.1 [@ZhengWang-164]
